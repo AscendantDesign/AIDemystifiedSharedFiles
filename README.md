@@ -6,7 +6,7 @@ All of the files on this folder are safe to download. They contain no macros.
 
 ## File Index
 
-[AccessDatabase / AdventureWorks.accdb](AccessDatabase/AdventureWorks.accdb). The source database from which the spreadsheet examples have been exported.
+[AccessDatabase / AdventureWorksAccessDatabase.zip](AccessDatabase/AdventureWorksAccessDatabase.zip). The source database from which the spreadsheet examples have been exported. Microsoft Access is required to open this file. To use the file, download the .zip file to your PC, unzip the file and open it with Access. Review the tables and queries for insight into how the test files were created or create your own new test files.
 
 <hr />
 
