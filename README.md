@@ -4,6 +4,9 @@ Files shared with viewers of the AI Demystified webinar for Wyoming SBDC on Apri
 ## Statement of Files
 All of the files on this folder are safe to download. They contain no macros.
 
+## Demo Movie
+Click [here](AIDemystified02-Output.mp4) to download the AI Demystified companion video.
+
 ## File Index
 
 [AccessDatabase / AdventureWorksAccessDatabase.zip](AccessDatabase/AdventureWorksAccessDatabase.zip). The source database from which the spreadsheet examples have been exported. Microsoft Access is required to open this file. To use the file, download the .zip file to your PC, unzip the file and open it with Access. Review the tables and queries for insight into how the test files were created or create your own new test files.
